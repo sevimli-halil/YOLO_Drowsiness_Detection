@@ -3,6 +3,7 @@ A Drowsiness Detection Model That I Trained By My Images
 This project uses a custom YOLOv5 model for object detection.
 The model was trained using YOLOv5, and images were labeled with LabelImg.
 The project also relies on PyTorch for deep learning computations.
+This project is based on https://github.com/nicknochnack/YOLO-Drowsiness-Detection
 ### Note:
 The testing image (`sleepyman.jpg`) is not of me, so the model's accuracy may be lower than expected.
 ## Requirements
